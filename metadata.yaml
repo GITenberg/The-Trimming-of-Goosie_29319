@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33841'
     url: http://www.gutenberg.org/2009/agents/33841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29319#The-Trimming-of-Goosie
 gutenberg_issued: '2009-07-05'
 gutenberg_type: Text
 identifiers:
