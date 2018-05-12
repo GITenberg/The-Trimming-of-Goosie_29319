@@ -1,0 +1,28 @@
+_repo: The-Trimming-of-Goosie_29319
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29319-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hopper, James
+    alias: Hopper, James Marie
+    birthdate: 1876
+    deathdate: 1956
+    gutenberg_agent_id: '33841'
+    url: http://www.gutenberg.org/2009/agents/33841
+description: ''
+gutenberg_issued: '2009-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29319'
+  lccn: 09024264
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- United States -- Fiction'
+- !lcc 'PS'
+title: The Trimming of Goosie
+url: http://www.gutenberg.org/ebooks/29319
